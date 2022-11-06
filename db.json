@@ -22,16 +22,6 @@
       "desc" : "What is the world"
     }
   ],
-  "users": [
-    {
-      "name": "Jaison",
-      "email": "jaison@gmail.com"
-    },
-    {
-      "name": "Jack",
-      "email": "jack@gmail.com" 
-    },
-  ], 
   "trial" : {
     "key": "value"
   }
