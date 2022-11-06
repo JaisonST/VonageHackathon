@@ -22,19 +22,18 @@
       "desc" : "What is the world"
     }
   ],
-  "comments": [
+  "users": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Jaison",
+      "email": "jaison@gmail.com", 
+      "registerd" : []  
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "name": "Jack",
+      "email": "jack@gmail.com", 
+      "registerd" : [
+        {"name" : "Robo Wars"}
+      ]  
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
