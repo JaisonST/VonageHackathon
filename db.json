@@ -1,16 +1,25 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "name" : "Vonage Hackathon",
+      "location": "Auditorium A block",
+      "time" : "1pm",
+      "speaker" : "Benjamin",
+      "desc" : "Its a really fun hackathon" 
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "name" : "Robo Wars",
+      "location": "Hall 0",
+      "time" : "2pm",
+      "speaker" : "Ryan",
+      "desc" : "Cars go boom"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "name" : "Virtual Reality WorkShop",
+      "location": "Hall 1",
+      "time" : "5pm",
+      "speaker" : "Tony",
+      "desc" : "What is the world"
     }
   ],
   "comments": [
