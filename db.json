@@ -31,5 +31,8 @@
       "name": "Jack",
       "email": "jack@gmail.com",  
     },
-  ]
+  ], 
+  "trial" : {
+    "key": "value"
+  }
 }
