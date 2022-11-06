@@ -1,0 +1,43 @@
+{
+  "events" : [
+    {
+      "name" : "Vonage Hackathon",
+      "location": "Auditorium A block",
+      "time" : "1pm",
+      "speaker" : "Benjamin",
+      "desc" : "Its a really fun hackathon" 
+    },
+
+    {
+      "name" : "Robo Wars",
+      "location": "Hall 0",
+      "time" : "2pm",
+      "speaker" : "Ryan",
+      "desc" : "Cars go boom"
+    },
+
+    {
+      "name" : "Virtual Reality WorkShop",
+      "location": "Hall 1",
+      "time" : "5pm",
+      "speaker" : "Tony",
+      "desc" : "What is the world"
+    },
+  ],
+  "users" : [
+    {
+      "name": "Jaison",
+      "email": "jaison@gmail.com", 
+      "registerd" : []  
+    },
+
+    {
+      "name": "Jack",
+      "email": "jack@gmail.com", 
+      "registerd" : [
+        {"name" : "Robo Wars"}
+      ]  
+    },
+  ]
+
+}
