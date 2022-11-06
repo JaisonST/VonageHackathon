@@ -21,5 +21,19 @@
       "speaker" : "Tony",
       "desc" : "What is the world"
     }
+  ],
+  "users": [
+    {
+      "name": "Jaison",
+      "email": "jaison@gmail.com", 
+      "registerd" : []  
+    },
+    {
+      "name": "Jack",
+      "email": "jack@gmail.com", 
+      "registerd" : [
+        {"name" : "Robo Wars"}
+      ]  
+    },
   ]
 }
